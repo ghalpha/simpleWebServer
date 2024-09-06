@@ -1,0 +1,1 @@
+A simple web server application that searches for all "index.html" in the .exe's folder and serves them on a different TCP port, if no "index.html" found it serves the directory for browsing instead for sharing files. 
