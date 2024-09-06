@@ -1,0 +1,7 @@
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\bin\Debug\simpleWebServer.exe.config
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\bin\Debug\simpleWebServer.exe
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\bin\Debug\simpleWebServer.pdb
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\obj\Debug\simpleWebServer.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\obj\Debug\simpleWebServer.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\obj\Debug\simpleWebServer.exe
+C:\Users\brand\OneDrive\DevOps\Projects\VisualStudio\simpleWebServer\simpleWebServer\obj\Debug\simpleWebServer.pdb
